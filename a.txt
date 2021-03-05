@@ -1,2 +1,5 @@
 New line and second commit in branch2 Where third commit?
 File in branch2 and first commit in branch2 Where third commit?
+(second commit in branch1) (third commit in branch1)
+Fourth line
+
