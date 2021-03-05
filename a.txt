@@ -1,2 +1,2 @@
-First file with text
+First file with text (second commit in branch1)
 Seconds line
