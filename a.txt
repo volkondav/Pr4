@@ -1,1 +1,1 @@
-First file with text
+File in branch2 and first commit in branch2
