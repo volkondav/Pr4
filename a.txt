@@ -1,1 +1,2 @@
+New line and second commit in branch2
 File in branch2 and first commit in branch2
